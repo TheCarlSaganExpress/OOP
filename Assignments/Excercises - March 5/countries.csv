@@ -1,0 +1,198 @@
+"COUNTRY","AREA(Sq.Miles)","POPULATION"
+"Afghanistan ",250000,29835392
+"Albania ",11100,2994667
+"Algeria",919590,34994937
+"Andorra",181,84825
+"Angola ",481351,13338541
+"Antigua and Barbuda ",171,87884
+"Argentina ",1068296,41769726
+"Armenia",11506,2967975
+"Australia ",2967893,21766711
+"Austria ",32382,8217280
+"Azerbaijan ",33436,8372373
+"Bahamas, The",5382,313312
+"Bahrain",257,1214705
+"Bangladesh ",55598,158570535
+"Barbados ",166,286705
+"Belarus ",80154,9577552
+"Belgium ",11787,10431477
+"Belize",8867,321115
+"Benin ",43483,9325032
+"Bhutan ",18147,708427
+"Bolivia ",424162,10118683
+"Bosnia and Herzegovina",19741,4622163
+"Botswana ",231803,2065398
+"Brazil ",3286470,203429773
+"Brunei",2228,401890
+"Bulgaria ",42822,7093635
+"Burkina Faso ",105869,16751455
+"Burundi ",10745,10216190
+"Cambodia ",69900,14701717
+"Cameroon ",183567,19711291
+"Canada ",3855081,34030589
+"Cape Verde ",1557,516100
+"Central African Republic",240534,4950027
+"Chad ",495752,10758945
+"Chile ",292258,16888760
+"China ",3705386,1336718015
+"Colombia ",439733,44725543
+"Comoros",838,794683
+"Congo, Democratic Republic of the ",905563,71712867
+"Congo, Republic of the ",132046,4243929
+"Costa Rica ",19730,4576562
+"Cote d'Ivoire ",124502,21504162
+"Croatia ",21831,4483804
+"Cuba ",42803,11087330
+"Cyprus ",3571,1120489
+"Czech Republic",30450,10190213
+"Denmark ",16639,5529888
+"Djibouti ",8880,757074
+"Dominica ",291,72969
+"Dominican Republic",18815,9956648
+"Ecuador ",109483,15007343
+"Egypt ",386660,82079636
+"El Salvador ",8124,6071774
+"Equatorial Guinea",10830,668225
+"Eritrea ",46842,5939484
+"Estonia ",17462,1282963
+"Ethiopia ",435184,90873739
+"Fiji ",7054,883125
+"Finland ",130558,5259250
+"France ",211208,65312249
+"Gabon ",103346,1576665
+"Gambia",4363,1797860
+"Georgia",26911,4585874
+"Germany ",137846,81471834
+"Ghana ",92456,24791073
+"Greece ",50942,10760136
+"Grenada ",133,108419
+"Guatemala ",42042,13824463
+"Guinea ",94925,10601009
+"Guinea-Bissau",13946,1596677
+"Guyana ",83000,744768
+"Haiti ",10714,9719932
+"Honduras ",43278,8143564
+"Hungary ",35919,9976062
+"Iceland ",39768,311058
+"India ",1269338,1189172906
+"Indonesia ",741096,245613043
+"Iran ",636293,77891220
+"Iraq",168753,30399572
+"Ireland ",27135,4670976
+"Israel ",8019,7473052
+"Italy ",116305,61016804
+"Jamaica",4244,2868380
+"Japan ",145882,126475664
+"Jordan ",35637,6508271
+"Kazakhstan ",1049150,15522373
+"Kenya ",224961,41070934
+"Kiribati ",313,100743
+"Korea, North",46540,24457492
+"Korea, South ",38023,48754657
+"Kosovo ",4211,1825632
+"Kuwait ",6880,2595628
+"Kyrgyzstan ",76641,5587443
+"Laos ",91428,6477211
+"Latvia ",24938,2204708
+"Lebanon ",4015,4143101
+"Lesotho",11720,1924886
+"Liberia",43000,3786764
+"Libya ",679358,6597960
+"Liechtenstein ",62,35236
+"Lithuania ",25174,3535547
+"Luxembourg",998,503302
+"Macedonia ",9781,2077328
+"Madagascar ",226656,21926221
+"Malawi ",45745,15879252
+"Malaysia ",127316,28728607
+"Maldives",116,394999
+"Mali ",478764,14159904
+"Malta ",122,408333
+"Marshall Islands ",4577,67182
+"Mauritania",397953,3281634
+"Mauritius ",788,1303717
+"Mexico ",761602,113724226
+"Micronesia, Federated States of ",271,106836
+"Moldova",13067,4314377
+"Monaco ",1,30539
+"Mongolia ",603905,3133318
+"Montenegro",5415,661807
+"Morocco",172413,31968361
+"Mozambique ",309494,22948858
+"Myanmar (Burma) ",261969,53999804
+"Namibia ",318694,2147585
+"Nauru ",8,9322
+"Nepal ",54363,29391883
+"Netherlands ",16033,16847007
+"New Zealand",103737,4290347
+"Nicaragua ",49998,5666301
+"Niger ",489189,16468886
+"Nigeria ",356667,155215573
+"Norway",125181,4691849
+"Oman ",82031,3027959
+"Pakistan ",310401,187342721
+"Palau ",177,20956
+"Panama ",30193,3460462
+"Papua New Guinea ",178703,6187591
+"Paraguay ",157046,6459058
+"Peru ",496223,29248943
+"Philippines ",115830,101833938
+"Poland",120728,38441588
+"Portugal ",35672,10760305
+"Qatar ",4416,848016
+"Romania ",91669,21904551
+"Russia ",6592735,138739892
+"Rwanda ",10169,11370425
+"Saint Kitts and Nevis ",101,50314
+"Saint Lucia ",238,161557
+"Saint Vincent and the Grenadines",150,103869
+"Samoa ",1137,193161
+"San Marino ",24,31817
+"Sao Tome and Principe ",386,179506
+"Saudi Arabia ",756981,26131703
+"Senegal ",75749,12643799
+"Serbia ",29913,7310555
+"Seychelles ",176,89188
+"Sierra Leone ",27699,5363669
+"Singapore ",267,4740737
+"Slovakia ",18859,5477038
+"Slovenia",7827,2000092
+"Solomon Islands",10985,571890
+"Somalia",246199,9925640
+"South Africa ",471008,49004031
+"South Sudan ",400367,8260490
+"Spain ",194896,46754784
+"Sri Lanka ",25332,21283913
+"Sudan",728215,45047502
+"Suriname",63039,491989
+"Swaziland ",6704,1370424
+"Sweden ",173731,9088728
+"Switzerland ",15942,7639961
+"Syria ",71498,22517750
+"Taiwan ",13892,23071779
+"Tajikistan ",55251,7627200
+"Tanzania ",364898,42746620
+"Thailand ",198455,66720153
+"Timor-Leste ",5641,1177834
+"Togo ",21925,6771993
+"Tonga ",289,105916
+"Trinidad and Tobago ",1980,1227505
+"Tunisia ",63170,10629186
+"Turkey",301382,78785548
+"Turkmenistan",188455,4997503
+"Tuvalu ",10,10544
+"Uganda",91135,34612250
+"Ukraine ",233089,45134707
+"United Arab Emirates",32000,5148664
+"United Kingdom ",94525,62698362
+"United States ",3718691,313232044
+"Uruguay ",68039,3308535
+"Uzbekistan ",172741,28128600
+"Vanuatu",4710,224564
+"Vatican City ",0.17,832
+"Venezuela ",352143,27635743
+"Vietnam ",127243,90549390
+"Western Sahara",102703,507160
+"Yemen ",203849,24133492
+"Zambia ",290584,13881336
+"Zimbabwe ",150803,12084304
